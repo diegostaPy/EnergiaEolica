@@ -1,6 +1,14 @@
 # Curso de Uso de Winrose para Análisis de Datos de Viento
 
-Este repositorio contiene los materiales y el notebook utilizado en el módulo sobre el uso de Winrose para el análisis de datos de viento. El curso cubre desde la generación de datos sintéticos hasta el análisis de datos reales obtenidos del portal NASA POWER para la ciudad de Asunción, Paraguay.
+Bienvenidos al curso de Uso de Winrose para el Análisis de Datos de Viento. Este curso está diseñado para introducir a los participantes en el uso de la herramienta Winrose, una librería de Python especializada en la visualización y análisis de datos de viento. A lo largo de este curso, aprenderemos a:
+
+    Generar y trabajar con datos sintéticos de viento.
+
+    Obtener y procesar datos reales de viento desde el portal NASA POWER.
+
+    Analizar la tendencia y estacionalidad de los datos de viento.
+
+    Extrapolar el viento a niveles más altos y comparar distribuciones de Weibull.
 
 ## Estructura del Repositorio
 
